@@ -4,6 +4,6 @@
 
 MRTK is both a collection of tools for getting mixed reality (MR) experiences off the ground quickly, and also an application framework with opinions on its own runtime, how it should be extended, and how it should be configured.
 
-![alt text](MRTK/mrtk_architecture.png "MRTK Architecture")
+![alt text](https://github.com/DaVInCincinnati/Hololens-Startup-Documentation/blob/main/MRTK/mrtk_architecture.png)
 
 Source: [https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/architecture/overview?view=mrtkunity-2022-05#high-level-breakdown](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/architecture/overview?view=mrtkunity-2022-05#high-level-breakdown)
