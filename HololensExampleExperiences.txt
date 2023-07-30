@@ -1,0 +1,5 @@
+Deployable Applications on the Hololens:
+
+Periodic Table Experience: https://github.com/microsoft/MRDL_Unity_PeriodicTable/releases/tag/2.6.0
+MRTK2 Example Hub: https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/example-scenes/example-hub?view=mrtkunity-2022-05
+Surfaces: https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/sampleapp-surfaces#download-app-from-microsoft-store-in-hololens-2
