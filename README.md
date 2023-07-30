@@ -3,7 +3,7 @@ This repository provides all the details starting with the Hololens and AR devel
 
 Table of Contents:
 + MRTK: Folder for all documentation related to the MRTK (setup, deploying, etc.)
-
++ HololensExampleExperiences.txt: Deployable Experiences ready to be on the Hololens and be used
   
 TechStack:
 1. Unity
