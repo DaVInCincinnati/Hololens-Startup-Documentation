@@ -9,9 +9,8 @@
 4. Unity or Unreal
 
 #### Game Engine Options
-[Unity](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/choosing-unity-version)
-
-Unreal: "As of Unreal Engine 4.25, HoloLens support is full-featured and production-ready. With capabilities such as the flexible Blueprints Visual Scripting system, designers can virtually use the full range of concepts and tools generally only available to programmers. Creators across industries can leverage the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds."
++ [Unity](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/choosing-unity-version)
++ Unreal: "As of Unreal Engine 4.25, HoloLens support is full-featured and production-ready. With capabilities such as the flexible Blueprints Visual Scripting system, designers can virtually use the full range of concepts and tools generally only available to programmers. Creators across industries can leverage the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds."
 
 #### Hololens Emulator
 In Repo at: MRTK/HoloLensEmulatorSetup.exe
