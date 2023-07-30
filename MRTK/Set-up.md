@@ -29,3 +29,8 @@ The HoloLens Emulator uses Hyper-V with RemoteFx (first Gen Emulator) or GPU-PV 
 *The emulator might work with an unsupported GPU, but will be slower*
 
 If your system meets the requirements listed above, ensure that the "Hyper-V" feature has been enabled on your system. Go to Control Panel -> Programs -> Programs and Features -> Turn Windows Features on or off and check that Hyper-V is selected.
+
+## Deploying to Hardware
+[https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/supported-devices/wmr-mrtk?view=mrtkunity-2022-05#building-and-deploying-mrtk-to-hololens-1-hololens-2-and-wmr-headsets-uwp](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/supported-devices/wmr-mrtk?view=mrtkunity-2022-05#building-and-deploying-mrtk-to-hololens-1-hololens-2-and-wmr-headsets-uwp)
+
+
